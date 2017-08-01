@@ -1,0 +1,4 @@
+name: EnderPearlEffect
+main: TheGameSpider.plugins.EnderPearlEffect.main
+version: 1.0
+author: TheGameSpider
